@@ -1,7 +1,7 @@
 <h1 align="center" style="color:#00f0ff;">Murilo Augusto Estevam Francisco Vieira</h1>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/MuriloAEVieira/MuriloAEVieira/main/assets/cafe-programacao.jpeg" width="400px" alt="Programar é uma arte">
+  <img src="https://i.imgur.com/SGUJExN.jpeg" width="400px" alt="Café neon estilo tech">
 </p>
 
 <h3 align="center" style="color:#00f0ff;">☕ Dev Back‑End – apaixonado por café & código</h3>
@@ -11,7 +11,7 @@
 ### 💼 Sobre mim
 
 - 🔹 **Back‑End Developer**, focado em APIs REST, banco de dados e performance  
-- 🔹 Gosto de automações, micro serviços e boas práticas de código  
+- 🔹 Gosto de automações, microsserviços e boas práticas de código  
 - 🔹 Sempre com uma boa dose de café para manter a produtividade
 
 ---
@@ -39,7 +39,7 @@
 ---
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/MuriloAEVieira/MuriloAEVieira/main/assets/logo-megavale.jpg" width="200px" alt="Logo MegavaleCard">
+  <img src="https://i.imgur.com/1Pyn8ux.jpeg" width="400px" alt="Código neon">
 </p>
 
 <h3 align="center" style="color:#00f0ff;">☕ Desenvolvedor da MegavaleCard ☕</h3>
